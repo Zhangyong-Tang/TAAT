@@ -1,2 +1,2 @@
-# TADGE
-Temporal Aggregation for Dual-Guided Based RGBT Tracking
+# TAAT
+Temporal Aggregation for Adaptive RGBT Tracking
