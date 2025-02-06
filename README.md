@@ -5,6 +5,7 @@ Temporal Aggregation for Adaptive RGBT Tracking
 
 This work explores the aggregation of temporal information and a lightweight multi-modal fusion block at decision level.
 The code is now available at [here](https://pan.baidu.com/s/1fYFckkiKmy_X4brLjS2LtA) with the password TZYD.
+
 ✈️ Efficiency analysis
 <img width="507" alt="3bfc3229ef9e990de4948319efeee3b" src="https://github.com/user-attachments/assets/84584c7f-bff6-4f19-abe1-e032c01cb2de" />
 
